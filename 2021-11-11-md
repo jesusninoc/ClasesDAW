@@ -1,0 +1,14 @@
+# Administración de servidores de aplicaciones:
+- Arquitectura y configuración básica del servidor de aplicaciones.
+- Administrar aplicaciones web.
+- Autenticación de usuarios. Dominios de seguridad para la autenticación.
+- Administración de sesiones. Sesiones persistentes.
+- Archivos de registro de acceso y filtro de solicitudes.
+- Configurar el servidor de aplicaciones para cooperar con servidores web.
+- Despliegue de aplicaciones en el servidor de aplicaciones.
+- Seguridad en el servidor de aplicaciones. Configurar el servidor de aplicaciones con soporte SSL/T.
+
+-------------------
+
+# Curso
+* https://www.jesusninoc.com/01/13/curso-de-aplicaciones-y-servicios-web-con-powershell/
